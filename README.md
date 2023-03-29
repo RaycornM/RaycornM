@@ -1,5 +1,5 @@
-### Hi there 👋
-#### This is RaycornM.
+### 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋
+#### 𝑻𝒉𝒊𝒔 𝒊𝒔 𝑹𝒂𝒚𝒄𝒐𝒓𝒏𝑴.
 
 <!--
 **RaycornM/RaycornM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Platform&Tools
+#### 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎&𝑻𝒐𝒐𝒍𝒔
 
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
 [![](https://img.shields.io/badge/Ubuntu-16.04-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 
-[![](https://img.shields.io/badge/Browser-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/firefox/)
+[![](https://img.shields.io/badge/Browser-Chrome-FF7139?style=flat-square&logo=Google-Chrome&logoColor=ffffff)](https://www.google.com/intl/zh-CN/chrome/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-IntelliJIDEA-000000?style=flat-square&logo=JetBrains&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 
 [![](https://img.shields.io/badge/iPad-000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ipad/)
 [![](https://img.shields.io/badge/Nintendo%20Switch-E95420?style=flat-square&logo=Nintendo-Switch&logoColor=ffffff)](https://www.nintendo.com/switch/)
@@ -41,13 +42,19 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
-![](https://img.shields.io/badge/❤️%20RaycornM%20❤️-FFF?style=flat-square)
+![](https://img.shields.io/badge/🌽%20𝑹𝒂𝒚𝒄𝒐𝒓𝒏𝑴%20🌽-FFF?style=flat-square)
 
 ![](https://img.shields.io/badge/Creating%20with-FFF?style=flat-square)
 [![](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=ffffff)](https://www.blender.org/)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)
+![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-8A2BE2?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=ffffff)
 
 
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raycornm&layout=compact)
+
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ysamyy3wpsp4k4okd55mcj3glm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1fced1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ysamyy3wpsp4k4okd55mcj3glm&redirect=true)
+  
+  
