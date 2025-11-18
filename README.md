@@ -2,6 +2,12 @@
 #### 𝑻𝒉𝒊𝒔 𝒊𝒔 𝑹𝒂𝒚𝒄𝒐𝒓𝒏𝑴.
 ##### 💻𝑭𝒓𝒐𝒏𝒕-𝑬𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 📷𝑺𝒉𝒖𝒕𝒕𝒆𝒓𝒃𝒖𝒈 | 🐟𝑺𝒍𝒂𝒄𝒌𝒆𝒓 𝑬𝒙𝒕𝒓𝒂𝒐𝒓𝒅𝒊𝒏𝒂𝒊𝒓𝒆
 
+##### 𝑺𝒐𝒄𝒊𝒂𝒍 𝑴𝒆𝒅𝒊𝒂
+- [![Blog](https://static.is26.com/tmp/icons/blog.svg)]((https://raycornm.github.io/)[Blog: RIMUCHAHUI](https://raycornm.github.io/)
+- [![Instagram](https://static.is26.com/tmp/icons/instagram.svg)](https://www.instagram.com/denkyraymond/)[Instagram: denkyraymond](https://www.instagram.com/denkyraymond/)
+- [![Bilibili](https://static.is26.com/tmp/icons/bilibili.svg)](https://space.bilibili.com/4572890?spm_id_from=333.1007.0.0)[Bilibili: 玉米恶魔](https://space.bilibili.com/4572890?spm_id_from=333.1007.0.0)
+- [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/RaycornM)[Github: RaycornM](https://github.com/RaycornM)
+
 <!--
 **RaycornM/RaycornM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
