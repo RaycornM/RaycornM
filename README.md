@@ -1,5 +1,6 @@
 ### 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋
 #### 𝑻𝒉𝒊𝒔 𝒊𝒔 𝑹𝒂𝒚𝒄𝒐𝒓𝒏𝑴.
+##### 💻𝑭𝒓𝒐𝒏𝒕-𝑬𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 📷𝑺𝒉𝒖𝒕𝒕𝒆𝒓𝒃𝒖𝒈 | 🐟𝑺𝒍𝒂𝒄𝒌𝒆𝒓 𝑬𝒙𝒕𝒓𝒂𝒐𝒓𝒅𝒊𝒏𝒂𝒊𝒓𝒆
 
 <!--
 **RaycornM/RaycornM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,7 +55,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raycornm&layout=compact)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaycornM)
+
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ysamyy3wpsp4k4okd55mcj3glm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1fced1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ysamyy3wpsp4k4okd55mcj3glm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ysamyy3wpsp4k4okd55mcj3glm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
   
